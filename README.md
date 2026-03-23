@@ -6,8 +6,6 @@ Dreamhack 워게임 및 CTF 대회 풀이 기록입니다.
 |--------|---------|------|--------|------|
 | Dreamhack | cookie | 웹해킹 | Level 1 | [풀이](Dreamhack/웹해킹/cookie.md) |
 
----
-
 ## 주로 사용하는 도구
 - Burp Suite
 - Wireshark
