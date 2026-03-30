@@ -9,6 +9,7 @@ Dreamhack 워게임 및 CTF 대회 풀이 기록입니다.
 | Dreamhack | devtools-sources | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/devtools-sources.md) |
 | Dreamhack | file-download-1 | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/file-download-1.md) |
 | Dreamhack | command-injection-1 | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/command-injection-1.md) |
+| Dreamhack | jack-o-lantern | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/jack-o-lantern.md) |
 
 ## 주로 사용하는 도구
 - Burp Suite
