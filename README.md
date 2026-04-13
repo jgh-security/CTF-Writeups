@@ -11,7 +11,7 @@ Dreamhack 워게임 및 CTF 대회 풀이 기록입니다.
 | Dreamhack | command-injection-1 | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/command-injection-1.md) |
 | Dreamhack | jack-o-lantern | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/jack-o-lantern.md) |
 | Dreamhack | regex | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/regex.md) |
-| Dreamhack | Path Traversal | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/path-traversal.md) |
+| Dreamhack | Path Traversal | 웹해킹 | Beginner | [풀이](Dreamhack/웹해킹/Path Traversal.md) |
 
 ## 주로 사용하는 도구
 - Burp Suite
